@@ -1,0 +1,31 @@
+
+/* Fonts & variables  */ 
+
+@font-face{
+    font-family: ubuntu;
+    src: url(‘https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap’);
+}
+:root{
+    --indigo-dye: #003C66;
+    --orange-yellow-crayola: #FED766;
+    --orange-red: #F86624;
+    --dim-gray: #696773;
+    --cultured:#EFF1F3;
+
+}
+
+
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+    
+
+}
+
+
+h1 {
+}
+
+p{
+    font-family: ubuntu;
+}
